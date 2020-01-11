@@ -1,10 +1,10 @@
-<h1 align="center">Google Book Search</h1>
-<p align="center"><kbd><img src ="./client/public/images/readinglist.png"/></kbd></p><br/>
+<h1 align="center">ECommerce Website</h1>
+<p align="center"><kbd><img src =""/></kbd></p><br/>
 
-This project is a Google book search application.  It allows users to search the Google Books API by title, save books to a database, view book details, and preview the books.  
+This project is an ecommerce website that allows sellers to upload merchandise.  The second phase of this project is to allow viewers to purchase items via online purchases. 
 
 # Demo
-*https://young-everglades-79214.herokuapp.com/<br/>
+*https://agile-island-43127.herokuapp.com/<br/>
 # Setup
 In order to run the app, you will need to clone this repository and install all required technologies listed below.
 # Required Technologies
@@ -24,14 +24,14 @@ In order to run the app, you will need to clone this repository and install all 
 7. if-env
 
 # Installation Steps
-1. Open Bash and Clone the Reading-List repo
+1. Open Bash and Clone the repo
 2. Install all required technologies
-3. [Optional] In Bash, change the current directory to the reading-list directory and install create-react-app module using the following command:
+3. [Optional] In Bash, change the current directory to the REPO-NAME directory and install create-react-app module using the following command:
     1. npm install -g create-react-app
-4. In Bash, change to the reading-list directory, install all modules from the package.json, using the following command:
+4. In Bash, change to the REPO-NAME directory, install all modules from the package.json, using the following command:
     1. npm install [Enter] 
 # Execute Program
-1. In Bash, enter the following command in the reading-list directory, to start the server.
+1. In Bash, enter the following command in the REPO-NAME directory, to start the server.
     1. npm start [ENTER]
 2. The application will open your browser and run the app in test mode:
     1. http://localhost:3000
